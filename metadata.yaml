@@ -1,0 +1,50 @@
+_repo: Eversti-Chabert_52918
+_version: 0.0.1
+alternative_title: Colonel Chabert. Finnish
+contributor:
+  translator:
+    agent_name: Vuorinen, Huvi
+    aliases:
+    - Rajatie, Veikko
+    - Valkama, Ville
+    - Vasama, Veikko
+    birthdate: 1883
+    deathdate: 1965
+    gutenberg_agent_id: '47115'
+    url: http://www.gutenberg.org/2009/agents/47115
+    wikipedia: https://fi.wikipedia.org/wiki/Huvi_Vuorinen
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2016-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52918'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories'
+- !lcsh 'France -- Fiction'
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcsh 'Justice, Administration of -- Political aspects -- France -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Veterans -- Fiction'
+- GITenberg
+title: Eversti Chabert
+url: http://www.gutenberg.org/ebooks/52918
